@@ -1,5 +1,5 @@
-### \o/ Hi there 👋🏼
-
+### \o/ Fala pessoal 👋🏼
+Bem vindo ao meu cantinho, estou cursando Ciência da Computação e pretendo trazer projetos sobre tecnologias que estou aprendendo. Atualmente estou estagiando como Desenvolvedor Web na 4Buzz e quero compartilhar os meus conhecimentos com você 🚀🖤☕
 <!--
 **LuanVasco/luanvasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
