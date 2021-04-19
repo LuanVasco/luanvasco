@@ -1,5 +1,5 @@
 ### \o/ Fala pessoal 👋🏼
-Bem vindo ao meu cantinho, estou cursando Ciência da Computação e pretendo trazer projetos sobre tecnologias que estou aprendendo. Atualmente estou estagiando como Desenvolvedor Web na 4Buzz e quero compartilhar os meus conhecimentos com você 🚀🖤☕
+Bem vindo ao meu cantinho, estou cursando Ciência da Computação e pretendo trazer projetos sobre tecnologias que estou aprendendo. Atualmente estou trabalhando como Front End Web na M2Digital usando o framework VueJs e NuxtJs. Quero compartilhar os meus conhecimentos com você 🚀🖤☕
 
 [![linkedin](https://user-images.githubusercontent.com/78084171/106610390-809f3b80-6545-11eb-9dab-774b2706be1e.png?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/luan-godoy-483090161)](https://www.linkedin.com/in/luan-godoy-483090161)
 
